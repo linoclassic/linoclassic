@@ -17,6 +17,7 @@
   <img align="center" alt="Lino-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Lino-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Lino-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
+  <img align="center" alt="Lino-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-plain.svg">
 </div>
 
 ##
