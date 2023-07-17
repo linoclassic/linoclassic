@@ -5,8 +5,10 @@
 ##
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linoclassic&show_icons=true&theme=radical) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linoclassic&layout=compact&theme=radical&size_weight=2)
 
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linoclassic&layout=compact&theme=radical&size_weight=2) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linoclassic&theme=radical)](https://github.com/linoclassic/github-readme-stats)
 ##
 
 
@@ -26,7 +28,6 @@
 ##
 <div>
   <a href="https://www.linkedin.com/in/linoclassic38" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
 </div>
 
 
